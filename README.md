@@ -1,1 +1,3 @@
 # cv
+# this website is just a test
+# I created this website to learn HTML, CSS, JAVA, etc...
